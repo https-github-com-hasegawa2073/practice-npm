@@ -1,0 +1,11 @@
+{
+  "name": "practice-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hasegawa2073/practice-npm.git",
+  "author": "hasegawa2073 <hasetatsu2001@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
